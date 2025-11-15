@@ -1,0 +1,19 @@
+#social-links {
+    text-align: center;
+    padding: 40px 0;
+    background-color: #e8c4c6; 
+    color: #806b63; 
+}
+
+#social-links h2 {
+    margin-bottom: 15px;
+    color: #806b63; 
+}
+
+.insta-icon {
+    width: 60px; 
+    transition: 0.3s;
+}
+
+.insta-icon:hover {
+    transform: scale(1.1); 
